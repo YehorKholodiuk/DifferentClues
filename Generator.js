@@ -10,5 +10,5 @@ const iterator = makeRangeIntegrator()
 
 console.log(iterator.next())
 console.log(iterator.next())
-iterator.next();
-iterator.next();
+console.log(iterator.next())
+console.log(iterator.next())
